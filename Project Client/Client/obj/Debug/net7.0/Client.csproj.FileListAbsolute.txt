@@ -1,0 +1,60 @@
+D:\Practice For Github\API Project Client\Client\bin\Debug\net7.0\appsettings.Development.json
+D:\Practice For Github\API Project Client\Client\bin\Debug\net7.0\appsettings.json
+D:\Practice For Github\API Project Client\Client\bin\Debug\net7.0\Client.staticwebassets.runtime.json
+D:\Practice For Github\API Project Client\Client\bin\Debug\net7.0\Client.exe
+D:\Practice For Github\API Project Client\Client\bin\Debug\net7.0\Client.deps.json
+D:\Practice For Github\API Project Client\Client\bin\Debug\net7.0\Client.runtimeconfig.json
+D:\Practice For Github\API Project Client\Client\bin\Debug\net7.0\Client.dll
+D:\Practice For Github\API Project Client\Client\bin\Debug\net7.0\Client.pdb
+D:\Practice For Github\API Project Client\Client\obj\Debug\net7.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice For Github\API Project Client\Client\obj\Debug\net7.0\Client.AssemblyInfoInputs.cache
+D:\Practice For Github\API Project Client\Client\obj\Debug\net7.0\Client.AssemblyInfo.cs
+D:\Practice For Github\API Project Client\Client\obj\Debug\net7.0\Client.csproj.CoreCompileInputs.cache
+D:\Practice For Github\API Project Client\Client\obj\Debug\net7.0\Client.MvcApplicationPartsAssemblyInfo.cache
+D:\Practice For Github\API Project Client\Client\obj\Debug\net7.0\Client.RazorAssemblyInfo.cache
+D:\Practice For Github\API Project Client\Client\obj\Debug\net7.0\Client.RazorAssemblyInfo.cs
+D:\Practice For Github\API Project Client\Client\obj\Debug\net7.0\staticwebassets\msbuild.Client.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Practice For Github\API Project Client\Client\obj\Debug\net7.0\staticwebassets\msbuild.build.Client.props
+D:\Practice For Github\API Project Client\Client\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Client.props
+D:\Practice For Github\API Project Client\Client\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Client.props
+D:\Practice For Github\API Project Client\Client\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Practice For Github\API Project Client\Client\obj\Debug\net7.0\staticwebassets.build.json
+D:\Practice For Github\API Project Client\Client\obj\Debug\net7.0\staticwebassets.development.json
+D:\Practice For Github\API Project Client\Client\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Practice For Github\API Project Client\Client\obj\Debug\net7.0\scopedcss\bundle\Client.styles.css
+D:\Practice For Github\API Project Client\Client\obj\Debug\net7.0\scopedcss\projectbundle\Client.bundle.scp.css
+D:\Practice For Github\API Project Client\Client\obj\Debug\net7.0\Client.dll
+D:\Practice For Github\API Project Client\Client\obj\Debug\net7.0\refint\Client.dll
+D:\Practice For Github\API Project Client\Client\obj\Debug\net7.0\Client.pdb
+D:\Practice For Github\API Project Client\Client\obj\Debug\net7.0\Client.genruntimeconfig.cache
+D:\Practice For Github\API Project Client\Client\obj\Debug\net7.0\ref\Client.dll
+D:\Practice For Github\Getting Started With ASP.NET Core Web API\Project Client\Client\obj\Debug\net7.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice For Github\Getting Started With ASP.NET Core Web API\Project Client\Client\obj\Debug\net7.0\Client.AssemblyInfoInputs.cache
+D:\Practice For Github\Getting Started With ASP.NET Core Web API\Project Client\Client\obj\Debug\net7.0\Client.AssemblyInfo.cs
+D:\Practice For Github\Getting Started With ASP.NET Core Web API\Project Client\Client\obj\Debug\net7.0\Client.csproj.CoreCompileInputs.cache
+D:\Practice For Github\Getting Started With ASP.NET Core Web API\Project Client\Client\obj\Debug\net7.0\Client.MvcApplicationPartsAssemblyInfo.cache
+D:\Practice For Github\Getting Started With ASP.NET Core Web API\Project Client\Client\obj\Debug\net7.0\Client.RazorAssemblyInfo.cache
+D:\Practice For Github\Getting Started With ASP.NET Core Web API\Project Client\Client\obj\Debug\net7.0\Client.RazorAssemblyInfo.cs
+D:\Practice For Github\Getting Started With ASP.NET Core Web API\Project Client\Client\obj\Debug\net7.0\Client.dll
+D:\Practice For Github\Getting Started With ASP.NET Core Web API\Project Client\Client\obj\Debug\net7.0\refint\Client.dll
+D:\Practice For Github\Getting Started With ASP.NET Core Web API\Project Client\Client\obj\Debug\net7.0\Client.pdb
+D:\Practice For Github\Getting Started With ASP.NET Core Web API\Project Client\Client\bin\Debug\net7.0\appsettings.Development.json
+D:\Practice For Github\Getting Started With ASP.NET Core Web API\Project Client\Client\bin\Debug\net7.0\appsettings.json
+D:\Practice For Github\Getting Started With ASP.NET Core Web API\Project Client\Client\bin\Debug\net7.0\Client.staticwebassets.runtime.json
+D:\Practice For Github\Getting Started With ASP.NET Core Web API\Project Client\Client\bin\Debug\net7.0\Client.exe
+D:\Practice For Github\Getting Started With ASP.NET Core Web API\Project Client\Client\bin\Debug\net7.0\Client.deps.json
+D:\Practice For Github\Getting Started With ASP.NET Core Web API\Project Client\Client\bin\Debug\net7.0\Client.runtimeconfig.json
+D:\Practice For Github\Getting Started With ASP.NET Core Web API\Project Client\Client\bin\Debug\net7.0\Client.dll
+D:\Practice For Github\Getting Started With ASP.NET Core Web API\Project Client\Client\bin\Debug\net7.0\Client.pdb
+D:\Practice For Github\Getting Started With ASP.NET Core Web API\Project Client\Client\obj\Debug\net7.0\staticwebassets\msbuild.Client.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Practice For Github\Getting Started With ASP.NET Core Web API\Project Client\Client\obj\Debug\net7.0\staticwebassets\msbuild.build.Client.props
+D:\Practice For Github\Getting Started With ASP.NET Core Web API\Project Client\Client\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Client.props
+D:\Practice For Github\Getting Started With ASP.NET Core Web API\Project Client\Client\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Client.props
+D:\Practice For Github\Getting Started With ASP.NET Core Web API\Project Client\Client\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Practice For Github\Getting Started With ASP.NET Core Web API\Project Client\Client\obj\Debug\net7.0\staticwebassets.build.json
+D:\Practice For Github\Getting Started With ASP.NET Core Web API\Project Client\Client\obj\Debug\net7.0\staticwebassets.development.json
+D:\Practice For Github\Getting Started With ASP.NET Core Web API\Project Client\Client\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Practice For Github\Getting Started With ASP.NET Core Web API\Project Client\Client\obj\Debug\net7.0\scopedcss\bundle\Client.styles.css
+D:\Practice For Github\Getting Started With ASP.NET Core Web API\Project Client\Client\obj\Debug\net7.0\scopedcss\projectbundle\Client.bundle.scp.css
+D:\Practice For Github\Getting Started With ASP.NET Core Web API\Project Client\Client\obj\Debug\net7.0\Client.genruntimeconfig.cache
+D:\Practice For Github\Getting Started With ASP.NET Core Web API\Project Client\Client\obj\Debug\net7.0\ref\Client.dll

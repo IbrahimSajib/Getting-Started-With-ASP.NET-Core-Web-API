@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<h2 class="display-4 text-center alert alert-info">Customer List</h2>
+<table class="table table-bordered table-striped table-sm text-center">
+    <thead class="table-success">
+        <tr>
+            <th>Customer Name</th>
+            <th>Age</th>
+            <th>City</th>
+            <th>Country</th>
+            <th>Phone</th>
+        </tr>
+    </thead>
+    <tbody id="customers"></tbody>
+</table>
+@section scripts{
+    <script type="text/javascript">
+        var customer;
+        $(document).ready(function () {
+            getCustomers();
+        });
+
+        function getCustomers() {
+            var urlApi = "http://localhost:56739/api/Customers";
+            $.ajax({
+                url: urlApi,
+                type: "GET",
+                dataType: "JSON"
+            })
+                .done(function (result, request) {
+                    customer = result;
+                    console.log(result);
+                    $("#customers").empty();
+                    $.each(result, function (i, v) {
+                        $("#customers").append(
+                            "<tr>" +
+                            "<td>" + v.customerName + "</td>" +
+                            "<td>" + v.age + "</td>" +
+                            "<td>" + v.city + "</td>" +
+                            "<td>" + v.country + "</td>" +
+                            "<td>" + v.phone + "</td>" +
+                            "</tr>"
+                        );
+                    });
+                });
+        }
+    </script>
+}
